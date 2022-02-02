@@ -1,0 +1,26 @@
+
+a.nav-link:hover {
+    color: #252525 !important;
+    font-weight: bold !important;
+}
+
+.card {
+    background-color: #e6e6e6 !important;
+    border: 1px solid #e6e6e6 !important;
+    /* border-radius: 1rem !important; */
+}
+
+.card-header {
+    background-color: #e6e6e6 !important;
+}
+
+#judul-kartu {
+    font-family: 'Lato', sans-serif;
+    margin-top: 2rem;
+}
+
+#kopikanan{
+    background-color: #f8f8f8;
+    font-weight: 600;
+    color: #3f3f3f;
+}
